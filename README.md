@@ -21,6 +21,19 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-4A154B?style=for-the-badge)
 
+### 🧠 AI & Cloud Infrastructure
+
+**Google Cloud Platform (GCP):**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+* **Data & AI:** BigQuery ML, Vertex AI, Cloud Functions, Pub/Sub, Cloud Storage.
+* **Orchestration:** Cloud Composer (Managed Airflow).
+
+**Artificial Intelligence & MLOps:**
+![Generative AI](https://img.shields.io/badge/Generative_AI-Black?style=for-the-badge&logo=openai&logoColor=white)
+* **Specialization:** Integrating LLMs with structured enterprise data (RAG).
+* **AI Tools:** Snowflake Cortex, LangChain, Predictive Analytics.
+* **Academic Focus:** Currently exploring "Business AI" at Kozminski University.
+
 **Data & Engineering:**
 * **Languages:** Python, SQL
 * **Tools:** Salesforce Administration, Sigma, Tableau
